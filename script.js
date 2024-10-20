@@ -11,7 +11,7 @@ window.onload = function () {
         .then(response => response.json())
         .then(quotes => {
             const randomQuote = getRandomQuote(quotes);
-            quoteElement.textContent = `"${randomQuote.text}"`;
+            quoteElement.textContent = `${randomQuote.text}`;
             authorElement.textContent = `- ${randomQuote.author.name}, ${randomQuote.author.description}`;
         })
         .catch(error => {
