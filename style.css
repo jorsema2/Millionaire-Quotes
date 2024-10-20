@@ -34,3 +34,19 @@ html {
     font-weight: 400;
     text-align: right;
 }
+
+@media (prefers-color-scheme: dark) {
+
+    body,
+    html {
+        background-color: #1e1e1e;
+    }
+
+    #quote {
+        color: #f4f4f4;
+    }
+
+    #author {
+        color: #cccccc;
+    }
+}
