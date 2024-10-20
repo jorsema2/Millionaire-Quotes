@@ -8,22 +8,29 @@ html {
     justify-content: center;
     align-items: center;
     background-color: #f4f4f4;
-    font-family: Arial, sans-serif;
+    font-family: 'Roboto', sans-serif;
 }
 
 #quote-container {
     text-align: center;
     max-width: 80%;
+    border-radius: 10px;
 }
 
 #quote {
+    font-family: 'Playfair Display', serif;
     font-size: 2.5em;
+    font-weight: 700;
     color: #333;
     margin-bottom: 20px;
+    line-height: 1.4;
 }
 
 #author {
+    font-family: 'Roboto', sans-serif;
     font-size: 1.5em;
-    color: #555;
     font-style: italic;
+    color: #444;
+    font-weight: 400;
+    text-align: right;
 }
