@@ -12,7 +12,7 @@ window.onload = function () {
         .then(quotes => {
             const randomQuote = getRandomQuote(quotes);
             quoteElement.textContent = `${randomQuote.text}`;
-            authorElement.textContent = `- ${randomQuote.author.name}, ${randomQuote.author.description}`;
+            authorElement.textContent = `${randomQuote.author.name}, ${randomQuote.author.description}`;
         })
         .catch(error => {
             console.error('Error loading quotes:', error);

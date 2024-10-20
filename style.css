@@ -54,6 +54,16 @@ html {
     color: #444;
     font-weight: 400;
     text-align: right;
+    position: relative;
+    margin-top: 20px;
+}
+
+#author::before {
+    content: "—";
+    font-size: 1.5em;
+    color: #888;
+    margin-right: 10px;
+    vertical-align: middle;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -70,10 +80,13 @@ html {
     #quote::before,
     #quote::after {
         color: #aaa;
-        /* Adjust for dark mode */
     }
 
     #author {
-        color: #cccccc;
+        color: #f4f4f4;
+    }
+
+    #author::before {
+        color: #aaa;
     }
 }
