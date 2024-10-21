@@ -13,6 +13,9 @@ window.onload = function () {
             const randomQuote = getRandomQuote(quotes);
             quoteElement.textContent = `${randomQuote.text}`;
             authorElement.textContent = `${randomQuote.author.name}, ${randomQuote.author.description}`;
+
+            quoteElement.classList.add('loaded');
+            authorElement.classList.add('loaded');
         })
         .catch(error => {
             console.error('Error loading quotes:', error);

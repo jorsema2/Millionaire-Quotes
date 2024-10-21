@@ -29,7 +29,7 @@ html {
     padding: 0 20px;
 }
 
-#quote::before {
+#quote.loaded::before {
     content: "\201C";
     font-size: 1.5em;
     color: #888;
@@ -38,7 +38,7 @@ html {
     left: -15px;
 }
 
-#quote::after {
+#quote.loaded::after {
     content: "\201D";
     font-size: 1.5em;
     color: #888;
@@ -58,7 +58,7 @@ html {
     margin-top: 20px;
 }
 
-#author::before {
+#author.loaded::before {
     content: "\2014";
     font-size: 1.5em;
     color: #888;
@@ -77,8 +77,8 @@ html {
         color: #f4f4f4;
     }
 
-    #quote::before,
-    #quote::after {
+    #quote.loaded::before,
+    #quote.loaded::after {
         color: #aaa;
     }
 
@@ -86,7 +86,7 @@ html {
         color: #f4f4f4;
     }
 
-    #author::before {
+    #author.loaded::before {
         color: #aaa;
     }
 }
