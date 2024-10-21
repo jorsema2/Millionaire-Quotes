@@ -30,7 +30,7 @@ html {
 }
 
 #quote::before {
-    content: "“";
+    content: "\201C";
     font-size: 1.5em;
     color: #888;
     position: absolute;
@@ -39,7 +39,7 @@ html {
 }
 
 #quote::after {
-    content: "”";
+    content: "\201D";
     font-size: 1.5em;
     color: #888;
     position: absolute;
@@ -59,7 +59,7 @@ html {
 }
 
 #author::before {
-    content: "—";
+    content: "\2014";
     font-size: 1.5em;
     color: #888;
     margin-right: 10px;
