@@ -31,8 +31,8 @@ html {
 
 #quote.loaded::before {
     content: "\201C";
-    font-size: 1.5em;
-    color: #888;
+    font-size: 2em;
+    color: #333;
     position: absolute;
     top: -20px;
     left: -15px;
@@ -40,8 +40,8 @@ html {
 
 #quote.loaded::after {
     content: "\201D";
-    font-size: 1.5em;
-    color: #888;
+    font-size: 2em;
+    color: #333;
     position: absolute;
     bottom: -20px;
     right: -15px;
@@ -79,7 +79,7 @@ html {
 
     #quote.loaded::before,
     #quote.loaded::after {
-        color: #aaa;
+        color: #ccc;
     }
 
     #author {
