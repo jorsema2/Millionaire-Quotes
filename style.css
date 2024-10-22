@@ -74,19 +74,19 @@ html {
     }
 
     #quote {
-        color: #f4f4f4;
+        color: #fafafa;
     }
 
     #quote.loaded::before,
     #quote.loaded::after {
-        color: #ccc;
+        color: #e0e0e0;
     }
-
+    
     #author {
-        color: #f4f4f4;
+        color: #fafafa;
     }
 
     #author.loaded::before {
-        color: #aaa;
+        color: #d0d0d0;
     }
 }
