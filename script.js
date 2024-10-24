@@ -17,8 +17,8 @@ window.onload = function () {
             quoteElement.classList.add('loaded');
             authorElement.classList.add('loaded');
         })
-        .catch(error => {
-            console.error('Error loading quotes:', error);
+        .catch(() => {
+            console.error('Error loading quotes.');
             quoteElement.textContent = "Sorry, we couldn’t load the quotes right now. Please refresh the page and try again.";
             if (authorElement) {
                 authorElement.remove();
