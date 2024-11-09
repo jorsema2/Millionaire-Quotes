@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
-  "name": "Rich People Quotes",
-  "description": "Displays a random quote from famous wealthy figures every time you open a new tab, offering inspiration and motivation.",
+  "name": "Millionaire Quotes",
+  "description": "Get inspired with motivational quotes from top millionaires on every new tab.",
   "version": "1.0.0",
   "chrome_url_overrides": {
     "newtab": "newtab.html"
