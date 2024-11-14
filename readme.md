@@ -1,10 +1,12 @@
 # Millionaire Quotes Chrome Extension
 
-Get inspired with motivational quotes from top millionaires on every new tab!
+> Get inspired with motivational quotes from top millionaires on every new tab!
 
 ## Overview
 
 **Millionaire Quotes** is a Chrome extension designed to bring daily motivation and inspiration from renowned business leaders and top millionaires every time you open a new tab. With quotes from personalities like Jeff Bezos, Oprah Winfrey, Warren Buffett, and Elon Musk, this extension offers valuable insights on topics like success, entrepreneurship, finance, and personal development. Start your day with a dose of wisdom from the business world.
+
+![Extension Screenshot](./images/full%20tab%20light%20mode%20millionaire%20quote.jpg)
 
 ## Features
 
@@ -18,6 +20,8 @@ Get inspired with motivational quotes from top millionaires on every new tab!
 1. [Add Millionaire Quotes to Chrome](https://chrome.google.com/webstore/detail/millionaire-quotes/).
 2. After installation, open a new tab.
 3. Click “Keep it” to confirm that you want to use this extension for new tabs.
+
+![Installation Screenshot](./images/keep%20it%20button%20instruction%20millionaire%20quotes.jpg)
 
 Now you're all set to be inspired by millionaire wisdom each time you open a new tab!
 
