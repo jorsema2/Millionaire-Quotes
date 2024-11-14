@@ -1,6 +1,6 @@
 # Millionaire Quotes Chrome Extension
 
-> Get inspired with motivational quotes from top millionaires on every new tab!
+Get inspired with motivational quotes from top millionaires on every new tab!
 
 ## Overview
 
