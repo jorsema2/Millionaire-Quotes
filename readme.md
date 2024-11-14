@@ -1,7 +1,5 @@
 # Millionaire Quotes Chrome Extension
 
-![Millionaire Quotes Banner](images/banner.png)
-
 > Get inspired with motivational quotes from top millionaires on every new tab!
 
 ## Overview
