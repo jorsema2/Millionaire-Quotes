@@ -17,7 +17,7 @@
 
 ## Installation
 
-1. [Add Millionaire Quotes to Chrome](https://chrome.google.com/webstore/detail/millionaire-quotes/).
+1. [Add Millionaire Quotes to Chrome](https://chromewebstore.google.com/detail/millionaire-quotes/ompkpkafcfljggikfipodidceijgelim?hl=en).
 2. After installation, open a new tab.
 3. Click “Keep it” to confirm that you want to use this extension for new tabs.
 
