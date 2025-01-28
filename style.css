@@ -71,7 +71,7 @@ html {
 .search-container {
     width: 44rem;
     border-radius: 50px;
-    background-color: transparent;
+    background-color: #fff;
     display: flex;
     align-items: center;
     box-shadow: 0 1px 6px 0 #20212447;
@@ -123,14 +123,5 @@ html {
 
     #author.loaded::before {
         color: #d0d0d0;
-    }
-
-    .search-container {
-        background-color: #333;
-    }
-
-    .search-input {
-        color: #fafafa;
-        border-color: #444;
     }
 }
