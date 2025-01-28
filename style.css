@@ -77,7 +77,7 @@ html {
     box-shadow: 0 1px 6px 0 #20212447;
 
     form {
-        width: 100%
+        width: 100%;
     }
 }
 
@@ -123,5 +123,14 @@ html {
 
     #author.loaded::before {
         color: #d0d0d0;
+    }
+
+    .search-container {
+        background-color: #333;
+    }
+
+    .search-input {
+        color: #fafafa;
+        border-color: #444;
     }
 }
