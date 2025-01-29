@@ -30,6 +30,11 @@ window.onload = function () {
     const menuButton = document.getElementById('menu-button');
 
     menuButton.addEventListener('click', toggleMenu);
+
+    document.getElementById('review').addEventListener('click', function() {
+        const reviewUrl = 'https://chromewebstore.google.com/detail/millionaire-quotes/ompkpkafcfljggikfipodidceijgelim/reviews';
+        window.open(reviewUrl, '_blank');
+    });
     
     const quoteElement = document.getElementById('quote');
     const authorElement = document.getElementById('author');
