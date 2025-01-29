@@ -20,7 +20,17 @@ function isValidQuote(quote) {
     );
 }
 
+function toggleMenu() {
+    const menu = document.getElementById('menu');
+    menu.classList.toggle('open');
+    console.log('Menu toggled');
+}
+
 window.onload = function () {
+    const menuButton = document.getElementById('menu-button');
+
+    menuButton.addEventListener('click', toggleMenu);
+    
     const quoteElement = document.getElementById('quote');
     const authorElement = document.getElementById('author');
 
