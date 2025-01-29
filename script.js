@@ -35,6 +35,19 @@ window.onload = function () {
         const reviewUrl = 'https://chromewebstore.google.com/detail/millionaire-quotes/ompkpkafcfljggikfipodidceijgelim/reviews';
         window.open(reviewUrl, '_blank');
     });
+
+    document.getElementById('share').addEventListener('click', function() {
+        const extensionUrl = 'https://chromewebstore.google.com/detail/millionaire-quotes/ompkpkafcfljggikfipodidceijgelim';
+    
+        navigator.clipboard.writeText(extensionUrl)
+            .then(() => {
+                alert('Link copied to clipboard! You can now share it.');
+            })
+            .catch((err) => {
+                console.error('Error copying link to clipboard:', err);
+                alert('Failed to copy the link. Please try again.');
+            });
+    });
     
     const quoteElement = document.getElementById('quote');
     const authorElement = document.getElementById('author');
