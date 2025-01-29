@@ -14,13 +14,10 @@ html {
 
 #menu {
     display: none;
-    /* Hidden by default */
-    /* Add more styling to position the menu */
 }
 
 #menu.open {
     display: block;
-    /* Show when the 'open' class is added */
 }
 
 .vertical-ellipsis-container {
