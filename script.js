@@ -59,7 +59,7 @@ window.onload = function () {
     navigator.clipboard
       .writeText(extensionUrl)
       .then(() => {
-        alert("Link copied to clipboard! You can now share it.");
+        alert("Extension link copied to clipboard. You can now share it!");
       })
       .catch((err) => {
         console.error("Error copying link to clipboard:", err);
