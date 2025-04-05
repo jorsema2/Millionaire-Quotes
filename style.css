@@ -15,7 +15,7 @@ html {
 #menu {
     display: none;
     position: absolute;
-    top: 24px;
+    top: 32px;
     border-radius: 8px;
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
 }
@@ -54,23 +54,35 @@ html {
     width: 100%;
     top: 8px;
     position: absolute;
-    height: 16px;
 }
 
 .vertical-ellipsis {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
+    align-items: center;
     height: 100%;
-    background-color: transparent;
+    background-color: #fff;
     border: none;
+    border-radius: 50%;
+    padding: 0.6rem;
+    height: 2rem;
+    width: 2rem;
+}
+
+.vertical-ellipsis:hover {
+    background-color: #f2f2f2;
+}
+
+.vertical-ellipsis:focus {
+    outline: none;
 }
 
 .ellipsis {
     display: inline-block;
     position: relative;
-    width: 0.18rem;
-    height: 0.18rem;
+    width: 0.15rem;
+    height: 0.15rem;
     border-radius: 50%;
     background-color: #111;
     margin: 0 0.5rem;
