@@ -12,11 +12,14 @@ function escapeHtml(unsafe) {
 }
 
 function isValidQuote(quote) {
+  return typeof quote.text === "string" && typeof quote.author_id === "number";
+}
+
+function isValidAuthor(author) {
   return (
-    typeof quote.text === "string" &&
-    typeof quote.author === "object" &&
-    typeof quote.author.name === "string" &&
-    typeof quote.author.description === "string"
+    typeof author.author_id === "number" &&
+    typeof author.name === "string" &&
+    typeof author.description === "string"
   );
 }
 
@@ -72,19 +75,24 @@ window.onload = function () {
 
   fetch("./data/quotes.json")
     .then((response) => response.json())
-    .then((quotes) => {
+    .then((data) => {
+      const authors = data.authors;
+      const quotes = data.quotes;
+
+      const validAuthors = authors.filter(isValidAuthor);
       const validQuotes = quotes.filter(isValidQuote);
 
-      if (validQuotes.length === 0) {
-        throw new Error("No valid quotes found");
+      if (validQuotes.length === 0 || validAuthors.length === 0) {
+        throw new Error("No valid quotes or authors found");
       }
 
       const randomQuote = getRandomQuote(validQuotes);
+
+      const author = authors.find((a) => a.author_id === randomQuote.author_id);
+
       const sanitizedQuoteText = escapeHtml(randomQuote.text);
-      const sanitizedAuthorName = escapeHtml(randomQuote.author.name);
-      const sanitizedAuthorDescription = escapeHtml(
-        randomQuote.author.description
-      );
+      const sanitizedAuthorName = escapeHtml(author.name);
+      const sanitizedAuthorDescription = escapeHtml(author.description);
 
       quoteElement.textContent = sanitizedQuoteText;
       authorElement.textContent = `${sanitizedAuthorName}, ${sanitizedAuthorDescription}`;
