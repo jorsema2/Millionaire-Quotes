@@ -199,6 +199,11 @@
       "author_id": 40,
       "name": "Gemma Collins",
       "description": "television personality and businesswoman"
+    },
+    {
+      "author_id": 41,
+      "name": "Walt Disney",
+      "description": "co-founder of The Walt Disney Company"
     }
   ],
   "quotes": [
