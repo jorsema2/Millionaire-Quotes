@@ -3,12 +3,202 @@
     {
       "author_id": 1,
       "name": "Jeff Bezos",
-      "description": "Founder of Amazon"
+      "description": "founder of Amazon"
     },
     {
       "author_id": 2,
+      "name": "Sara Blakely",
+      "description": "founder of Spanx"
+    },
+    {
+      "author_id": 3,
+      "name": "Michael Bloomberg",
+      "description": "co-founder of Bloomberg L.P"
+    },
+    {
+      "author_id": 4,
+      "name": "Warren Buffett",
+      "description": "CEO of Berkshire Hathaway"
+    },
+    {
+      "author_id": 5,
+      "name": "Larry Ellison",
+      "description": "co-founder of Oracle"
+    },
+    {
+      "author_id": 6,
+      "name": "Bill Gates",
+      "description": "co-founder of Microsoft"
+    },
+    {
+      "author_id": 7,
       "name": "Elon Musk",
-      "description": "Founder of Tesla and SpaceX"
+      "description": "co-founder of Tesla and SpaceX"
+    },
+    {
+      "author_id": 8,
+      "name": "Larry Page",
+      "description": "co-founder of Google"
+    },
+    {
+      "author_id": 9,
+      "name": "J. K. Rowling",
+      "description": "author of the Harry Potter series"
+    },
+    {
+      "author_id": 10,
+      "name": "Oprah Winfrey",
+      "description": "host and TV producer"
+    },
+    {
+      "author_id": 11,
+      "name": "Mark Zuckerberg",
+      "description": "co-founder of Facebook"
+    },
+    {
+      "author_id": 12,
+      "name": "Mark Cuban",
+      "description": "co-owner of the Dallas Mavericks"
+    },
+    {
+      "author_id": 13,
+      "name": "Donald Trump",
+      "description": "businessman and 45th U.S. President"
+    },
+    {
+      "author_id": 14,
+      "name": "Henry Ford",
+      "description": "founder of Ford Motor Company"
+    },
+    {
+      "author_id": 15,
+      "name": "H. Ross Perot",
+      "description": "founder of Electronic Data Systems (EDS)"
+    },
+    {
+      "author_id": 16,
+      "name": "Ted Turner",
+      "description": "founder of CNN"
+    },
+    {
+      "author_id": 17,
+      "name": "Lakshmi Mittal",
+      "description": "CEO of ArcelorMittal"
+    },
+    {
+      "author_id": 18,
+      "name": "Richard Branson",
+      "description": "founder of the Virgin Group"
+    },
+    {
+      "author_id": 19,
+      "name": "John D. Rockefeller",
+      "description": "founder of Standard Oil"
+    },
+    {
+      "author_id": 20,
+      "name": "Andrew Carnegie",
+      "description": "founder of Carnegie Steel Company"
+    },
+    {
+      "author_id": 21,
+      "name": "Charlie Munger",
+      "description": "former vice chairman of Berkshire Hathaway"
+    },
+    {
+      "author_id": 22,
+      "name": "Bernard Arnault",
+      "description": "CEO of LVMH"
+    },
+    {
+      "author_id": 23,
+      "name": "Amancio Ortega",
+      "description": "founder of Inditex and Zara"
+    },
+    {
+      "author_id": 24,
+      "name": "Charles Koch",
+      "description": "CEO of Koch Industries"
+    },
+    {
+      "author_id": 25,
+      "name": "Sergey Brin",
+      "description": "co-founder of Google"
+    },
+    {
+      "author_id": 26,
+      "name": "S. Robson Walton",
+      "description": "former chairman of Walmart"
+    },
+    {
+      "author_id": 27,
+      "name": "Ma Huateng",
+      "description": "CEO of Tencent"
+    },
+    {
+      "author_id": 28,
+      "name": "Jack Ma",
+      "description": "co-founder of Alibaba Group"
+    },
+    {
+      "author_id": 29,
+      "name": "Wang Jianlin",
+      "description": "founder of Dalian Wanda Group"
+    },
+    {
+      "author_id": 30,
+      "name": "Mukesh Ambani",
+      "description": "chairman of Reliance Industries"
+    },
+    {
+      "author_id": 31,
+      "name": "Meg Whitman",
+      "description": "former CEO of eBay and Hewlett Packard Enterprise"
+    },
+    {
+      "author_id": 32,
+      "name": "Michael Dell",
+      "description": "CEO of Dell Inc"
+    },
+    {
+      "author_id": 33,
+      "name": "Sheldon Adelson",
+      "description": "founder of Las Vegas Sands Corporation"
+    },
+    {
+      "author_id": 34,
+      "name": "Sheryl Sandberg",
+      "description": "former COO of Facebook"
+    },
+    {
+      "author_id": 35,
+      "name": "James Dyson",
+      "description": "founder of Dyson Ltd"
+    },
+    {
+      "author_id": 36,
+      "name": "Azim Premji",
+      "description": "founder of Wipro Ltd"
+    },
+    {
+      "author_id": 37,
+      "name": "David Tepper",
+      "description": "founder of Appaloosa Management"
+    },
+    {
+      "author_id": 38,
+      "name": "Jack Dorsey",
+      "description": "co-founder of Twitter"
+    },
+    {
+      "author_id": 39,
+      "name": "Garrett Camp",
+      "description": "co-founder of Uber"
+    },
+    {
+      "author_id": 40,
+      "name": "Gemma Collins",
+      "description": "television personality and businesswoman"
     }
   ],
   "quotes": [
@@ -21,8 +211,356 @@
       "author_id": 1
     },
     {
-      "text": "When something is important enough, you do it even if the odds are not in your favor.",
+      "text": "There’s no bad time to innovate.",
+      "author_id": 1
+    },
+    {
+      "text": "It’s important to be willing to make mistakes. The worst thing that can happen is you become memorable.",
       "author_id": 2
+    },
+    {
+      "text": "We don’t have the luxury of time. We spend more because of how we live, but it’s important to be with our family and friends.",
+      "author_id": 2
+    },
+    {
+      "text": "We can make the world a better place, one butt at a time.",
+      "author_id": 2
+    },
+    {
+      "text": "To a contrarian like me, constant advice not to do something almost always starts me quickly down the risky, unpopular path.",
+      "author_id": 3
+    },
+    {
+      "text": "There seems to be some perverse human characteristic that likes to make easy things difficult.",
+      "author_id": 4
+    },
+    {
+      "text": "Of the billionaires I have known, money just brings out the basic traits in them. If they were jerks before they had money, they are simply jerks with a billion dollars.",
+      "author_id": 4
+    },
+    {
+      "text": "If past history was all there was to the game, the richest people would be librarians.",
+      "author_id": 4
+    },
+    {
+      "text": "When you innovate, you’ve got to be prepared for everyone telling you you’re nuts.",
+      "author_id": 5
+    },
+    {
+      "text": "I believe people have to follow their dreams – I did.",
+      "author_id": 5
+    },
+    {
+      "text": "I have had all of the disadvantages required for success.",
+      "author_id": 5
+    },
+    {
+      "text": "Success is a lousy teacher. It seduces smart people into thinking they can’t lose.",
+      "author_id": 6
+    },
+    {
+      "text": "Your most unhappy customers are your greatest source of learning.",
+      "author_id": 6
+    },
+    {
+      "text": "When something is important enough, you do it even if the odds are not in your favor.",
+      "author_id": 7
+    },
+    {
+      "text": "The single best piece of advice: Constantly think about how you could be doing things better and questioning yourself.",
+      "author_id": 7
+    },
+    {
+      "text": "Especially in technology, we need revolutionary change, not incremental change.",
+      "author_id": 8
+    },
+    {
+      "text": "If you’re changing the world, you’re working on important things. You’re excited to get up in the morning.",
+      "author_id": 8
+    },
+    {
+      "text": "We don’t have as many managers as we should, but we would rather have too few than too many.",
+      "author_id": 8
+    },
+    {
+      "text": "It is impossible to live without failing at something, unless you live so cautiously that you might as well not have lived at all, in which case you have failed by default.",
+      "author_id": 9
+    },
+    {
+      "text": "Real integrity is doing the right thing, knowing that nobody’s going to know whether you did it or not.",
+      "author_id": 10
+    },
+    {
+      "text": "Breathe. Let go. And remind yourself that this very moment is the only one you know you have for sure.",
+      "author_id": 10
+    },
+    {
+      "text": "The biggest risk is not taking any risk… In a world that’s changing really quickly, the only strategy that is guaranteed to fail is not taking risks.",
+      "author_id": 11
+    },
+    {
+      "text": "I think a simple rule of business is, if you do the things that are easier first, then you can actually make a lot of progress.",
+      "author_id": 11
+    },
+    {
+      "text": "I wouldn’t be where I am now if I didn’t fail… a lot. The good, the bad, it’s all part of the success equation.",
+      "author_id": 12
+    },
+    {
+      "text": "Part of being a winner is knowing when enough is enough. Sometimes you have to give up the fight and walk away, and move on to something that’s more productive.",
+      "author_id": 13
+    },
+    {
+      "text": "If you think you can do a thing or think you can’t do a thing, you’re right.",
+      "author_id": 14
+    },
+    {
+      "text": "Most people give up just when they’re about to achieve success. They quit on the one yard line. They give up at the last minute of the game, one foot from a winning touchdown.",
+      "author_id": 15
+    },
+    {
+      "text": "It’s fine to celebrate success but it is more important to heed the lessons of failure.",
+      "author_id": 6
+    },
+    {
+      "text": "I just love it when people say I can’t do it, there’s nothing that makes me feel better, because all my life, people have said that I wasn’t going to make it.",
+      "author_id": 16
+    },
+    {
+      "text": "Failure is not the outcome — failure is not trying. Don't be afraid to fail.",
+      "author_id": 2
+    },
+    {
+      "text": "Everyone experiences tough times; it is a measure of your determination and dedication how you deal with them and how you can come through them.",
+      "author_id": 17
+    },
+    {
+      "text": "You don’t learn to walk by following the rules. You learn by doing, and by falling over.",
+      "author_id": 18
+    },
+    {
+      "text": "If you want to succeed, you should strike out on new paths, rather than travel the worn paths of accepted success.",
+      "author_id": 19
+    },
+    {
+      "text": "I knew that if I failed I wouldn’t regret that, but I knew the one thing I might regret is not trying.",
+      "author_id": 1
+    },
+    {
+      "text": "The big secret in life is that there is no big secret. Whatever your goal, you can get there if you’re willing to work.",
+      "author_id": 10
+    },
+    {
+      "text": "Put all good eggs in one basket and then watch that basket.",
+      "author_id": 20
+    },
+    {
+      "text": "Like Warren, I had a considerable passion to get rich. Not because I wanted Ferraris — I wanted the independence. I desperately wanted it.",
+      "author_id": 21
+    },
+    {
+      "text": "Sit on your ass investing. You’re paying less to brokers, you’re listening to less nonsense, and if it works, the tax system gives you an extra one, two, or three percentage points per annum.",
+      "author_id": 21
+    },
+    {
+      "text": "The big money is not in the buying and selling. But in the waiting.",
+      "author_id": 21
+    },
+    {
+      "text": "I think frugality drives innovation, just like other constraints do. One of the only ways to get out of a tight box is to invent your way out.",
+      "author_id": 1
+    },
+    {
+      "text": "If you don’t find a way to make money while you sleep, you will work until you die.",
+      "author_id": 4
+    },
+    {
+      "text": "Money is just a consequence. I always say to my team, 'Don't worry too much about profitability. If you do your job well, the profitability will come.'",
+      "author_id": 22
+    },
+    {
+      "text": "The biggest risk is not taking any risk. In a world that is changing really quickly, the only strategy that is guaranteed to fail is not taking risks.",
+      "author_id": 11
+    },
+    {
+      "text": "I’ll keep working until the end.",
+      "author_id": 23
+    },
+    {
+      "text": "Relentlessly strive to come up with new and better products and produce them more efficiently than the alternatives.",
+      "author_id": 24
+    },
+    {
+      "text": "I believe people have to follow their dreams - I did.",
+      "author_id": 5
+    },
+    {
+      "text": "America is built around this premise that you can do it, and there are an awful lot of people who are unlikely to have done it who did.",
+      "author_id": 3
+    },
+    {
+      "text": "Lots of companies don't succeed over time. What do they fundamentally do wrong? They usually miss the future.",
+      "author_id": 8
+    },
+    {
+      "text": "I feel there's an existential angst among young people. I didn't have that. They see enormous mountains, where I only saw one little hill to climb.",
+      "author_id": 25
+    },
+    {
+      "text": "I learned from my dad that change and experimentation are constants and important. You have to keep trying new things.",
+      "author_id": 26
+    },
+    {
+      "text": "The leader of the market today may not necessarily be the leader tomorrow.",
+      "author_id": 27
+    },
+    {
+      "text": "I'm coming to this world not to work. I want to come to this world to enjoy my life. I don't want to die in my office. I want to die on the beaches.",
+      "author_id": 28
+    },
+    {
+      "text": "I am not a person who pursues luxury. I am not like those people who, once they have money, compulsively squander it or show it off.",
+      "author_id": 29
+    },
+    {
+      "text": "If you do everything that everyone else does in business, you’re going to lose. The only way to really be ahead is to be different.",
+      "author_id": 5
+    },
+    {
+      "text": "Outcomes are usually not deterministic, they’re probabilistic.",
+      "author_id": 7
+    },
+    {
+      "text": "The popular definition of insanity — doing the same thing over and over and expecting a different result — that’s only true in a highly deterministic situation.",
+      "author_id": 7
+    },
+    {
+      "text": "If you have a probabilistic situation, which most situations are, then if you do the same thing twice, it can be quite reasonable to expect a different result.",
+      "author_id": 7
+    },
+    {
+      "text": "The reason I’ve been able to be so financially successful is my focus has never, ever for one minute been money.",
+      "author_id": 10
+    },
+    {
+      "text": "You know you are on the road to success if you would do your job and not be paid for it.",
+      "author_id": 10
+    },
+    {
+      "text": "Your most unhappy customers are your greatest source of learning.",
+      "author_id": 6
+    },
+    {
+      "text": "Being negative is not how we make progress.",
+      "author_id": 8
+    },
+    {
+      "text": "I’m certain that whatever challenges we take on, we can solve with a little bit of concerted effort and some good technology. And that’s an exciting place to be.",
+      "author_id": 8
+    },
+    {
+      "text": "Too many rules stifle innovation.",
+      "author_id": 25
+    },
+    {
+      "text": "It is important to remember that there are no overnight successes. You will need to be dedicated, single-minded, and there is no substitute to hard work.",
+      "author_id": 30
+    },
+    {
+      "text": "The biggest risk is not taking any risk… In a world that’s changing really quickly, the only strategy that is guaranteed to fail is not taking risks.",
+      "author_id": 11
+    },
+    {
+      "text": "I will tell you how to become rich. Close the doors. Be fearful when others are greedy. Be greedy when others are fearful.",
+      "author_id": 4
+    },
+    {
+      "text": "If we were motivated by money, we would have sold the company a long time ago and ended up on a beach.",
+      "author_id": 8
+    },
+    {
+      "text": "When a small business grows like eBay did, it has a multiplier effect. It creates other small businesses that supply it with intellectual capital, goods, and services.",
+      "author_id": 31
+    },
+    {
+      "text": "I think frugality drives innovation, just like other constraints do. One of the only ways to get out of a tight box is to invent your way out.",
+      "author_id": 1
+    },
+    {
+      "text": "As you start your journey, the first thing you should do is throw away that store-bought map and begin to draw your own.",
+      "author_id": 32
+    },
+    {
+      "text": "I never thought about becoming wealthy. It never crossed my mind. What really motivated me was to try to accomplish something.",
+      "author_id": 33
+    },
+    {
+      "text": "Wealth isn't the same thing as intelligence.",
+      "author_id": 5
+    },
+    {
+      "text": "Being confident and believing in your own self-worth is necessary to achieving your potential.",
+      "author_id": 34
+    },
+    {
+      "text": "My philosophy is that if I have any money, I invest it in new ventures and not have it sitting around.",
+      "author_id": 18
+    },
+    {
+      "text": "Sweat equity is the most valuable equity there is. Know your business and industry better than anyone else in the world. Love what you do or don't do it.",
+      "author_id": 12
+    },
+    {
+      "text": "All you have in business is your reputation. So, it’s very important that you keep your word.",
+      "author_id": 18
+    },
+    {
+      "text": "No matter how great the talent or efforts, some things just take time. You can’t produce a baby in one month by getting nine women pregnant.",
+      "author_id": 4
+    },
+    {
+      "text": "If you want to do something different, you’re going to come up against a lot of naysayers.",
+      "author_id": 35
+    },
+    {
+      "text": "Never give up. Today is hard, tomorrow will be worse, but the day after tomorrow will be sunshine.",
+      "author_id": 28
+    },
+    {
+      "text": "Talent without effort is wasted talent. And while the effort is the one thing you can control in your life, applying that effort intelligently is next on the list.",
+      "author_id": 12
+    },
+    {
+      "text": "Don’t compare yourself to anyone in this world. If you do so, you are insulting yourself.",
+      "author_id": 6
+    },
+    {
+      "text": "When the rate of change outside is more than what is inside, be sure that the end is near.",
+      "author_id": 36
+    },
+    {
+      "text": "The more you praise and celebrate your life, the more there is in life to celebrate.",
+      "author_id": 10
+    },
+    {
+      "text": "I think when it comes to decisions. I try not to be emotional. To drown out the noise and look at the important facts.",
+      "author_id": 37
+    },
+    {
+      "text": "You can worry about the competition or you can focus on what’s ahead of you and drive fast.",
+      "author_id": 38
+    },
+    {
+      "text": "Complacency is the worst. I never allow myself to be content with what I have done, and I always tried to instill this in everyone around me.",
+      "author_id": 23
+    },
+    {
+      "text": "Every time I make a mistake with a company, I write it out and try to figure out why it happened.",
+      "author_id": 39
+    },
+    {
+      "text": "I walk around like I'm a billionaire, I believe in the universe, I never worry about money and that's why money comes to me.",
+      "author_id": 40
     }
   ]
 }
