@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "Millionaire Quotes",
-  "description": "Boost your entrepreneur mindset with motivational quotes from top millionaires on every new tab.",
+  "description": "Boost your entrepreneurial mindset with motivational quotes from top millionaires on every new tab.",
   "version": "1.2.0",
   "chrome_url_overrides": {
     "newtab": "newtab.html"
