@@ -16,11 +16,6 @@ html {
     display: none;
     position: absolute;
     top: 24px;
-    display: flex;
-    flex-direction: column;
-    padding: 8px 0;
-    gap: 8px;
-    margin: 0 8px 0 0;
     border-radius: 8px;
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
 }
@@ -44,6 +39,13 @@ html {
 
 #menu button:focus {
     outline: none;
+}
+
+.options-container {
+    display: flex;
+    flex-direction: column;
+    padding: 8px 0;
+    gap: 8px;
 }
 
 .vertical-ellipsis-container {
