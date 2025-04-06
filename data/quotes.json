@@ -199,6 +199,11 @@
       "author_id": 40,
       "name": "Gemma Collins",
       "description": "television personality and businesswoman"
+    },
+    {
+      "author_id": 41,
+      "name": "Walt Disney",
+      "description": "co-founder of The Walt Disney Company"
     }
   ],
   "quotes": [
@@ -561,6 +566,422 @@
     {
       "text": "I walk around like I'm a billionaire, I believe in the universe, I never worry about money and that's why money comes to me.",
       "author_id": 40
+    },
+    {
+      "text": "I would rather earn 1% off a 100 people's efforts than 100% of my own efforts.",
+      "author_id": 19
+    },
+    {
+      "text": "If you want to succeed you should strike out on new paths, rather than travel the worn paths of accepted success.",
+      "author_id": 19
+    },
+    {
+      "text": "I always tried to turn every disaster into an opportunity.",
+      "author_id": 19
+    },
+    {
+      "text": "I do not think that there is any other quality so essential to success of any kind as the quality of perseverance. It overcomes almost everything, even nature.",
+      "author_id": 19
+    },
+    {
+      "text": "I believe in the dignity of labor, whether with head or hand; that the world owes no man a living but that it owes every man an opportunity to make a living.",
+      "author_id": 19
+    },
+    {
+      "text": "If your only goal is to become rich, you will never achieve it.",
+      "author_id": 19
+    },
+    {
+      "text": "The most important thing for a young man is to establish a credit... a reputation, character.",
+      "author_id": 19
+    },
+    {
+      "text": "The ability to deal with people is as purchasable a commodity as sugar or coffee and I will pay more for that ability than for any other under the sun.",
+      "author_id": 19
+    },
+    {
+      "text": "Next to doing the right thing, the most important thing is to let people know you are doing the right thing.",
+      "author_id": 19
+    },
+    {
+      "text": "It is wrong to assume that men of immense wealth are always happy.",
+      "author_id": 19
+    },
+    {
+      "text": "Only when the tide goes out do you discover who's been swimming naked.",
+      "author_id": 4
+    },
+    {
+      "text": "Someone is sitting in the shade today because someone planted a tree a long time ago.",
+      "author_id": 4
+    },
+    {
+      "text": "Chains of habit are too light to be felt until they are too heavy to be broken.",
+      "author_id": 4
+    },
+    {
+      "text": "Price is what you pay. Value is what you get.",
+      "author_id": 4
+    },
+    {
+      "text": "Rule No.1: Never lose money. Rule No.2: Never forget rule No.1.",
+      "author_id": 4
+    },
+    {
+      "text": "Risk comes from not knowing what you're doing.",
+      "author_id": 4
+    },
+    {
+      "text": "Time is the friend of the wonderful company, the enemy of the mediocre.",
+      "author_id": 4
+    },
+    {
+      "text": "It's far better to buy a wonderful company at a fair price than a fair company at a wonderful price.",
+      "author_id": 4
+    },
+    {
+      "text": "It's better to hang out with people better than you. Pick out associates whose behavior is better than yours and you'll drift in that direction.",
+      "author_id": 4
+    },
+    {
+      "text": "I don't look to jump over 7-foot bars: I look around for 1-foot bars that I can step over.",
+      "author_id": 4
+    },
+    {
+      "text": "I always knew I was going to be rich. I don't think I ever doubted it for a minute.",
+      "author_id": 4
+    },
+    {
+      "text": "Predicting rain doesn't count. Building arks does.",
+      "author_id": 4
+    },
+    {
+      "text": "The only way to get love is to be lovable. It's very irritating if you have a lot of money. You'd like to think you could write a check: 'I'll buy a million dollars' worth of love.' But it doesn't work that way. The more you give love away, the more you get.",
+      "author_id": 4
+    },
+    {
+      "text": "You only have to do a very few things right in your life so long as you don't do too many things wrong.",
+      "author_id": 4
+    },
+    {
+      "text": "The best thing I did was to choose the right heroes.",
+      "author_id": 4
+    },
+    {
+      "text": "A public-opinion poll is no substitute for thought.",
+      "author_id": 4
+    },
+    {
+      "text": "Only buy something that you'd be perfectly happy to hold if the market shut down for 10 years.",
+      "author_id": 4
+    },
+    {
+      "text": "If a business does well, the stock eventually follows.",
+      "author_id": 4
+    },
+    {
+      "text": "Our favorite holding period is forever.",
+      "author_id": 4
+    },
+    {
+      "text": "I bought a company in the mid-'90s called Dexter Shoe and paid $400 million for it. And it went to zero. And I gave about $400 million worth of Berkshire stock, which is probably now worth $400 billion. But I've made lots of dumb decisions. That's part of the game.",
+      "author_id": 4
+    },
+    {
+      "text": "The way to get started is to quit talking and begin doing.",
+      "author_id": 41
+    },
+    {
+      "text": "All our dreams can come true, if we have the courage to pursue them.",
+      "author_id": 41
+    },
+    {
+      "text": "You can design and create, and build the most wonderful place in the world. But it takes people to make the dream a reality.",
+      "author_id": 41
+    },
+    {
+      "text": "We keep moving forward, opening new doors, and doing new things, because we're curious and curiosity keeps leading us down new paths.",
+      "author_id": 41
+    },
+    {
+      "text": "The more you like yourself, the less you are like anyone else, which makes you unique.",
+      "author_id": 41
+    },
+    {
+      "text": "You're dead if you aim only for kids. Adults are only kids grown up, anyway.",
+      "author_id": 41
+    },
+    {
+      "text": "It's kind of fun to do the impossible.",
+      "author_id": 41
+    },
+    {
+      "text": "All the adversity I've had in my life, all my troubles and obstacles, have strengthened me... You may not realize it when it happens, but a kick in the teeth may be the best thing in the world for you.",
+      "author_id": 41
+    },
+    {
+      "text": "Times and conditions change so rapidly that we must keep our aim constantly focused on the future.",
+      "author_id": 41
+    },
+    {
+      "text": "A man should never neglect his family for business.",
+      "author_id": 41
+    },
+    {
+      "text": "People still think of me as a cartoonist, but the only thing I lift a pen or pencil for these days is to sign a contract, a check, or an autograph.",
+      "author_id": 41
+    },
+    {
+      "text": "Disneyland will never be completed. It will continue to grow as long as there is imagination left in the world.",
+      "author_id": 41
+    },
+    {
+      "text": "I only hope that we don't lose sight of one thing - that it was all started by a mouse.",
+      "author_id": 41
+    },
+    {
+      "text": "I have been up against tough competition all my life. I wouldn't know how to get along without it.",
+      "author_id": 41
+    },
+    {
+      "text": "You reach a point where you don't work for money.",
+      "author_id": 41
+    },
+    {
+      "text": "Of all the things I've done, the most vital is coordinating those who work with me and aiming their efforts at a certain goal.",
+      "author_id": 41
+    },
+    {
+      "text": "Crowded classrooms and half-day sessions are a tragic waste of our greatest national resource - the minds of our children.",
+      "author_id": 41
+    },
+    {
+      "text": "It's no secret that we were sticking just about every nickel we had on the chance that people would really be interested in something totally new and unique in the field of entertainment.",
+      "author_id": 41
+    },
+    {
+      "text": "We are not trying to entertain the critics. I'll take my chances with the public.",
+      "author_id": 41
+    },
+    {
+      "text": "A brand for a company is like a reputation for a person. You earn reputation by trying to do hard things well.",
+      "author_id": 1
+    },
+    {
+      "text": "What's dangerous is not to evolve.",
+      "author_id": 1
+    },
+    {
+      "text": "We've had three big ideas at Amazon that we've stuck with for 18 years, and they're the reason we're successful: Put the customer first. Invent. And be patient.",
+      "author_id": 1
+    },
+    {
+      "text": "If you do build a great experience, customers tell each other about that. Word of mouth is very powerful.",
+      "author_id": 1
+    },
+    {
+      "text": "The common question that gets asked in business is, 'why?' That's a good question, but an equally valid question is, 'why not?'",
+      "author_id": 1
+    },
+    {
+      "text": "The best customer service is if the customer doesn't need to call you, doesn't need to talk to you. It just works.",
+      "author_id": 1
+    },
+    {
+      "text": "I'm skeptical of any mission that has advertisers at its centerpiece.",
+      "author_id": 1
+    },
+    {
+      "text": "It's not an experiment if you know it's going to work.",
+      "author_id": 1
+    },
+    {
+      "text": "I think the definition of a book is changing.",
+      "author_id": 1
+    },
+    {
+      "text": "You don't want to negotiate the price of simple things you buy every day.",
+      "author_id": 1
+    },
+    {
+      "text": "When it comes to space, I see it as my job, I'm building infrastructure the hard way. I'm using my resources to put in place heavy lifting infrastructure so the next generation of people can have a dynamic, entrepreneurial explosion into space.",
+      "author_id": 1
+    },
+    {
+      "text": "If your customer base is aging with you, then eventually you are going to become obsolete or irrelevant. You need to be constantly figuring out who are your new customers and what are you doing to stay forever young.",
+      "author_id": 1
+    },
+    {
+      "text": "I'm a big fan of all-you-can-eat plans, because they're simpler for customers.",
+      "author_id": 1
+    },
+    {
+      "text": "Because, you know, resilience - if you think of it in terms of the Gold Rush, then you'd be pretty depressed right now because the last nugget of gold would be gone. But the good thing is, with innovation, there isn't a last nugget.",
+      "author_id": 1
+    },
+    {
+      "text": "Humans are unbelievably data efficient. You don't have to drive 1 million miles to drive a car, but the way we teach a self-driving car is have it drive a million miles.",
+      "author_id": 1
+    },
+    {
+      "text": "There are two ways to extend a business. Take inventory of what you're good at and extend out from your skills. Or determine what your customers need and work backward, even if it requires learning new skills. Kindle is an example of working backward.",
+      "author_id": 1
+    },
+    {
+      "text": "The thing that motivates me is a very common form of motivation. And that is, with other folks counting on me, it's so easy to be motivated.",
+      "author_id": 1
+    },
+    {
+      "text": "Part of company culture is path-dependent - it's the lessons you learn along the way.",
+      "author_id": 1
+    },
+    {
+      "text": "My own view is that every company requires a long-term view.",
+      "author_id": 1
+    },
+    {
+      "text": "There are two kinds of companies, those that work to try to charge more and those that work to charge less. We will be the second.",
+      "author_id": 1
+    },
+    {
+      "text": "The question really is, are you improving the world? And you can do that in many models. You can do that in government, you can do that in a nonprofit, and you can do it in commercial enterprise.",
+      "author_id": 1
+    },
+    {
+      "text": "What we want to be is something completely new. There is no physical analog for what Amazon.com is becoming.",
+      "author_id": 1
+    },
+    {
+      "text": "If you only do things where you know the answer in advance, your company goes away.",
+      "author_id": 1
+    },
+    {
+      "text": "One of the things it was obvious you could do with an online store is have a much more complete selection.",
+      "author_id": 1
+    },
+    {
+      "text": "Market leadership can translate directly to higher revenue, higher profitability, greater capital velocity, and correspondingly stronger returns on invested capital.",
+      "author_id": 1
+    },
+    {
+      "text": "I don't want to use my creative energy on somebody else's user interface.",
+      "author_id": 1
+    },
+    {
+      "text": "If everyone is moving forward together, then success takes care of itself.",
+      "author_id": 14
+    },
+    {
+      "text": "Failure is simply the opportunity to begin again, this time more intelligently.",
+      "author_id": 14
+    },
+    {
+      "text": "One of the greatest discoveries a man makes, one of his great surprises, is to find he can do what he was afraid he couldn't do.",
+      "author_id": 14
+    },
+    {
+      "text": "My best friend is the one who brings out the best in me.",
+      "author_id": 14
+    },
+    {
+      "text": "Anyone who stops learning is old, whether at twenty or eighty. Anyone who keeps learning stays young. The greatest thing in life is to keep your mind young.",
+      "author_id": 14
+    },
+    {
+      "text": "If there is any one secret of success, it lies in the ability to get the other person's point of view and see things from that person's angle as well as from your own.",
+      "author_id": 14
+    },
+    {
+      "text": "Nothing is particularly hard if you divide it into small jobs.",
+      "author_id": 14
+    },
+    {
+      "text": "Enthusiasm is the yeast that makes your hopes shine to the stars. Enthusiasm is the sparkle in your eyes, the swing in your gait. The grip of your hand, the irresistible surge of will and energy to execute your ideas.",
+      "author_id": 14
+    },
+    {
+      "text": "A business that makes nothing but money is a poor business.",
+      "author_id": 14
+    },
+    {
+      "text": "Wealth, like happiness, is never attained when sought after directly. It comes as a by-product of providing a useful service.",
+      "author_id": 14
+    },
+    {
+      "text": "You can't learn in school what the world is going to do next year.",
+      "author_id": 14
+    },
+    {
+      "text": "If money is your hope for independence you will never have it. The only real security that a man will have in this world is a reserve of knowledge, experience, and ability.",
+      "author_id": 14
+    },
+    {
+      "text": "It is not the employer who pays the wages. Employers only handle the money. It is the customer who pays the wages.",
+      "author_id": 14
+    },
+    {
+      "text": "Don't find fault, find a remedy.",
+      "author_id": 14
+    },
+    {
+      "text": "Time and money spent in helping men to do more for themselves is far better than mere giving.",
+      "author_id": 14
+    },
+    {
+      "text": "There are no big problems, there are just a lot of little problems.",
+      "author_id": 14
+    },
+    {
+      "text": "Even a mistake may turn out to be the one thing necessary to a worthwhile achievement.",
+      "author_id": 14
+    },
+    {
+      "text": "The competitor to be feared is one who never bothers about you at all, but goes on making his own business better all the time.",
+      "author_id": 14
+    },
+    {
+      "text": "I am looking for a lot of men who have an infinite capacity to not know what can't be done.",
+      "author_id": 14
+    },
+    {
+      "text": "Competition is the keen cutting edge of business, always shaving away at costs.",
+      "author_id": 14
+    },
+    {
+      "text": "A business absolutely devoted to service will have only one worry about profits. They will be embarrassingly large.",
+      "author_id": 14
+    },
+    {
+      "text": "It has been my observation that most people get ahead during the time that others waste.",
+      "author_id": 14
+    },
+    {
+      "text": "The highest use of capital is not to make more money, but to make money do more for the betterment of life.",
+      "author_id": 14
+    },
+    {
+      "text": "The man who will use his skill and constructive imagination to see how much he can give for a dollar, instead of how little he can give for a dollar, is bound to succeed.",
+      "author_id": 14
+    },
+    {
+      "text": "Capital punishment is as fundamentally wrong as a cure for crime as charity is wrong as a cure for poverty.",
+      "author_id": 14
+    },
+    {
+      "text": "Money is like an arm or leg - use it or lose it.",
+      "author_id": 14
+    },
+    {
+      "text": "An idealist is a person who helps other people to be prosperous.",
+      "author_id": 14
+    },
+    {
+      "text": "There is no man living that can not do more than he thinks he can.",
+      "author_id": 14
+    },
+    {
+      "text": "I cannot discover that anyone knows enough to say definitely what is and what is not possible.",
+      "author_id": 14
     }
   ]
 }
